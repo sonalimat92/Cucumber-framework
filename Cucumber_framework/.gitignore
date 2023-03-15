@@ -1,0 +1,16 @@
+/target/
+/Reports/
+/screenshots/
+/ext/
+
+# intellij files
+.idea
+*.iml
+
+# eclipse files
+.classpath
+.project
+.settings/
+.factorypath
+
+
